@@ -16,6 +16,7 @@ public class  setName2{
     }
     public int test(){
         return 0;
+
     }
 
 

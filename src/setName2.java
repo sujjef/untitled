@@ -15,7 +15,9 @@ public class  setName2{
         return super.hashCode();
     }
     public int test(){
-        return 0;
+        return 1;
+
+
 
     }
 

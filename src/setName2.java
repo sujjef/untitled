@@ -13,10 +13,4 @@ public class  setName2{
     public int hashCode() {
         return super.hashCode();
     }
-
-
-
-
-
-
 }
